@@ -1,2 +1,2 @@
 # digital_modulation_BER
-Different modulation schemes BER is compared
+ BER of different modulation scheme is compared. The repo is still private due to ongoing review and development.
